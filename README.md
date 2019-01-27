@@ -1,6 +1,6 @@
 # LogAnalysis
 
-Log Analysis is a program built on Python 3 which interacts with PostgreSQL database to provide essential information.
+Log Analysis is a program built on **Python 3** which interacts with **PostgreSQL** database to provide essential information.
 ## Getting Started
   - [Download Virtual Box](https://www.virtualbox.org/wiki/Downloads)
   - [Download Vagrant](https://www.vagrantup.com/downloads.html)
@@ -28,3 +28,5 @@ $ python app.py
   1. What are the most popular three articles of all time?
   2. Who are the most popular article authors of all time?
   3. On which days did more than 1% of requests lead to errors?
+  
+
